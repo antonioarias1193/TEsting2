@@ -1,0 +1,27 @@
+
+{
+    "products":[
+        {
+            "name": "Adidas",
+            "type": "Cartoon Astronaut T-shirts",
+            "price": 19.99,
+            "image":
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa2%2Fb7%2Fce%2Fa2b7cefb441c867735c19f1d7f542f72.png&f=1&nofb=1&ipt=cf94371a00a7c62c71b873a3a6f0be2a14d2b0da8590a4a6cc1dae07bbed9918&ipo=images"
+        },
+        {
+            "name": "Nike",
+            "type": "Yellow Polos T-shirts",
+            "price": 20.11,
+            "image":
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgildan.my%2Fwp-content%2Fuploads%2F2020%2F02%2F76000B-24C-Gold.png&f=1&nofb=1&ipt=32ff44cf7eae5d2738ad07dcfbba52619a3b200a0fed443ada76737d8a5c78b1&ipo=images"
+        },
+        {
+            "name": "Romawi",
+            "type": "Black Cool Elegant",
+            "price": 10.54,
+            "image":
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Ftshirt%2Ftshirt_PNG5427.png&f=1&nofb=1&ipt=1035986b69a76328b1fd25d8aa29c73d3317cd7efcba3c6007bce4e037efe5ca&ipo=images"
+        }
+        
+    ]
+}
